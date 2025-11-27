@@ -108,13 +108,6 @@ View SQL queries folder
 Open .pbix file for dashboard
 Explore insights & modify filters
 
-📌 Future Improvements
-
-Predictive modeling (Customer CLV, churn probability)
-Cohort analysis
-RFM segmentation
-Advanced DAX measures
-
 🧑‍💻 Author
 
 Ganesh Longre
