@@ -12,25 +12,8 @@ The workflow includes:
 
 📁 Dataset Columns
 
-.customer_id
-.age
-.gender
-.item_purchased
-.category
-.purchase_amount
-.location
-.size
-.color
-.season
-.review_rating
-.subscription_status
-.shipping_type
-.discount_applied
-.previous_purchases
-.payment_method
-.frequency_of_purchases
-.age_group
-.purchase_frequency_days
+.customer_id ,age ,gender ,item_purchased ,category ,purchase_amount ,location , size , color , season , review_rating , subscription_status , shipping_type , discount_applied , previous_purchases , payment_method
+, frequency_of_purchases , age_group , purchase_frequency_days
 
 🧪 Python EDA
 
